@@ -8,7 +8,7 @@ Website designed to be a pet tips blog. It was created with 5 pages in order to 
 
 ## Demo
 
-
+https://gatitos-petshop.vercel.app/
 
 ## Project Features
 
@@ -33,7 +33,7 @@ Website designed to be a pet tips blog. It was created with 5 pages in order to 
 Clone the project
 
 ```bash
-  git clone https://github.com/victorhubarb/SkillUp
+  git clone https://github.com/victorhubarb/Gatitos-Petshop
 ```
 
 Install NodeJS from their website https://nodejs.org/en/download/ and then install Sass
